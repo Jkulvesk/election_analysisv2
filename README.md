@@ -1,13 +1,13 @@
 # election_analysis
 
-##Project Overview
+## Project Overview
 The Colorado Board of Elections employee gave me a task to calculate the election results including the total of votes, total of votes by candidate, percent of votes by candidate and calculation of the winner.
 
-##Resources
+## Resources
 The file used to calculate the data was the election_results.csv.
 I am using python 3.7.6 for this analysis.
 
-##Summary
+## Summary
 These are the steps I used to calculate the results. The final analysis is written to the election_analysis.txt file.
 1.Opened the data file.
 2.Find the names of all the candidates and printed out to a list
@@ -29,6 +29,6 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
-##Challenge Overview
+## Challenge Overview
 
-##Challenge Summary
+## Challenge Summary

@@ -30,7 +30,7 @@ For reference, see screenshots of results as shown on terminal and text file.
 
 ![screenshots](https://user-images.githubusercontent.com/72076683/96385712-41e2a280-115b-11eb-8b77-768314a47cdc.png)
 
-## Challenge Summary
+## Election Audit Summary
 The way this script is written, you can use it for future elections. All you need to ensure is that the data of the CSV is formatted in the same way with votes, counties and candidates in the same columns. To use it for the next year, you will only need to update this line of code in the file: pypoll_challenge.py
 
 ** file_to_load = os.path.join("Resources", "election_results.csv") **

@@ -25,7 +25,9 @@ Here's a summary of the results of the election.
   -Winning Percentage: 73.8%
 
 For reference, see screenshots of results as shown on terminal and text file.
+
 ![screenshots](https://user-images.githubusercontent.com/72076683/96385697-2d060f00-115b-11eb-8902-2740ff27a901.png)
+
 ![screenshots](https://user-images.githubusercontent.com/72076683/96385712-41e2a280-115b-11eb-8b77-768314a47cdc.png)
 
 ## Challenge Summary
